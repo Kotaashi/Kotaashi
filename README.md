@@ -1,13 +1,28 @@
-These are supported funding model platforms
+![head.png](https://media1.giphy.com/media/RukiJ8cdOpN3hRmU4N/giphy.gif)
 
-github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
-patreon: # Replace with a single Patreon username
-open_collective: # Replace with a single Open Collective username
-ko_fi: # Replace with a single Ko-fi username
-tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
-community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
-liberapay: # Replace with a single Liberapay username
-issuehunt: # Replace with a single IssueHunt username
-otechie: # Replace with a single Otechie username
-custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
-github: [Kotaashi]
+<p align="center">
+─────────────────────────────────────
+</p>
+
+![4po's github stats](https://github-readme-stats.vercel.app/api?username=Kotaashi&hide=contribs,prs&count_private=true&show_icons=true)
+
+<a href="https://github.com/Kotaashi">
+  <img src="https://img.shields.io/github/followers/Kotaashi">
+</a>
+<a href="https://github.com/Kotaashi">
+   <img src="https://komarev.com/ghpvc/?username=Kotaashi">
+</a>
+
+<p align="center">
+         <a href="https://discord.gg/ZbXUmGsZPH">
+         <img src="https://img.shields.io/static/v1?label=Discord&logo=Discord&message=Click%20Here&color=7289DA">
+         </a>
+         <a href="https://discord.bio/p/Kotaashi">
+         <img src="https://img.shields.io/static/v1?label=Website&logo=CSS3&logoColor=1572B6&message=Click%20Here&color=1572B6">
+         </a>
+
+<br>
+
+---
+
+:mag_right: From [@Kotaashi](https://github.com/Kotaashi)
