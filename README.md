@@ -9,7 +9,7 @@
 <a href="https://github.com/Kotaashi">
   <img src="https://img.shields.io/github/followers/Kotaashi">
 </a>
-<a href="https://github.com/Kotaashi">
+<a href="https://discord.bio/p/3945">
    <img src="https://komarev.com/ghpvc/?username=Kotaashi">
 </a>
 
