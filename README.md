@@ -38,7 +38,7 @@ const Kotaashi = {
          </a>
 
 <p align="center">
-  <a href="https://discord.gg/segafr"><img src="https://media.discordapp.net/attachments/801861967811575828/802605005134757948/ezgif-3-8a2697fb32a0.gif"></a>
+  <a href="https://discord.gg/segafr"><img src="https://cdn.discordapp.com/attachments/803957184299794433/805466795204542504/original.gif"></a>
 </p>
 
 <p align="center">
