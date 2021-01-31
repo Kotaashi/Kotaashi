@@ -3,7 +3,7 @@
 ─────────────────────────────────────
 </p>
 
-![4po's github stats](https://github-readme-stats.vercel.app/api?username=Kotaashi&hide=contribs,prs&count_private=true&show_icons=true)
+![Kotaashi's github stats](https://github-readme-stats.vercel.app/api?username=Kotaashi&hide=contribs,prs&count_private=true&show_icons=true)
 
 <a href="https://github.com/Kotaashi">
   <img src="https://img.shields.io/github/followers/Kotaashi">
