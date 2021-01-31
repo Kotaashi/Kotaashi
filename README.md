@@ -38,10 +38,6 @@ const Kotaashi = {
          </a>
 
 <p align="center">
-  <a href="https://discord.gg/segafr"><img src="https://cdn.discordapp.com/attachments/803957184299794433/805466795204542504/original.gif"></a>
-</p>
-
-<p align="center">
     
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/4po" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @4Kotaashi on GitHub">Follow @Kotaashi</a>
