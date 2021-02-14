@@ -7,20 +7,6 @@
 
 <img align='right' src="https://net-security.fr/wp-content/uploads/arch_logo-1.png" width="230">
 
-```javascript
-const Kotaashi = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "game"],
-    technologies: {
-        frontEnd: {
-            js: ["Vue", "React", "Angular"],
-            css: ["bootstrap", "sass"]
-        },
-        backEnd: ["Java", "PHP"],
-        databases: ["MySql", "oracle"],
-    }
-};
-```
 <p align="center">
 ─────────────────────────────────────
 </p>
