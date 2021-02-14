@@ -1,14 +1,4 @@
 
-<p align="center">
-─────────────────────────────────────
-</p>
-
-**Hi there,Kotaashi**.
-
-<img align='right' src="https://net-security.fr/wp-content/uploads/arch_logo-1.png" width="230">
-
-<p align="center">
-─────────────────────────────────────
 </p>
 
 ![Kotaashi's github stats](https://github-readme-stats.vercel.app/api?username=4po&hide=contribs,prs&count_private=true&show_icons=true)
